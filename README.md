@@ -1,0 +1,1 @@
+for yxpt staticFile service
