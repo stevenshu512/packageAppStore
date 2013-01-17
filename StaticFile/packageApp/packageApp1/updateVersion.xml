@@ -1,0 +1,6 @@
+<update-info src     = "https://w.example.com/2.1/RC/package1.pkg"
+             version = "1.2">
+  <details xml:lang="中文">
+    迎新平台点名应用
+  </details>
+</update-info>
